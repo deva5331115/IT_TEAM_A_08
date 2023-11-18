@@ -1,0 +1,12 @@
+C:/Users/exam18/Desktop/Home_Automation_using_GestureRecognition-main/Dataset/Fist
+C:/Users/exam18/Desktop/Home_Automation_using_GestureRecognition-main/Dataset/One
+C:/Users/exam18/Desktop/Home_Automation_using_GestureRecognition-main/Dataset/Two
+C:/Users/exam18/Desktop/Home_Automation_using_GestureRecognition-main/Dataset/Three
+C:/Users/exam18/Desktop/Home_Automation_using_GestureRecognition-main/Dataset/Four
+C:/Users/exam18/Desktop/Home_Automation_using_GestureRecognition-main/Dataset/Five-palm
+C:/Users/exam18/Desktop/Home_Automation_using_GestureRecognition-main/Dataset/OK
+C:/Users/exam18/Desktop/Home_Automation_using_GestureRecognition-main/Dataset/Thumbs_up
+C:/Users/exam18/Desktop/Home_Automation_using_GestureRecognition-main/Dataset/Thumbs_down
+C:/Users/exam18/Desktop/Home_Automation_using_GestureRecognition-main/Dataset/Stop
+C:/Users/exam18/Desktop/Home_Automation_using_GestureRecognition-main/Dataset/Direction_left
+C:/Users/exam18/Desktop/Home_Automation_using_GestureRecognition-main/Dataset/Direction_right

@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/deva/Miniproject/automation-using-hand-gestures-master/TrainedModel/Gesture12RecognitionModelBest.keras"
+all_model_checkpoint_paths: "'C:/deva/Miniproject/automation-using-hand-gestures-master/TrainedModel/Gesture12RecognitionModelBest.keras"
